@@ -63,13 +63,13 @@ h2,h3 {
 }
 
 a {
-    color:darkcyan;
+    color: #b7c297;
     text-decoration: none;
 }
 
 a:hover {
     color: whitesmoke;
-    background-color: darkcyan;
+    background-color: #dde8d8;
     text-decoration: none;
 }
 
