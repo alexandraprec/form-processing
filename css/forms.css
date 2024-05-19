@@ -36,3 +36,7 @@ form.main-form input[type="submit"]{
     border:1.25px solid #e48782;
     color: dimgray;
 }
+
+#text {
+    border:1.25px solid #e48782;
+}
